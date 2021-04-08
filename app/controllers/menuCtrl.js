@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         if (response.ok) return response.json();
     }).then((data)=>{
         if (data.success) {
+
             let html = '';
             data.data.forEach(e => {
                 let active = '';
