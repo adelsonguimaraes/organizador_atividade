@@ -1,0 +1,54 @@
+body {
+    background: rgb(34, 34, 34); 
+    /* background-image: url('./../../img/background.png'); */
+    background-size: 100vh;
+    /* background-repeat: no-repeat; */
+    color: #6b6b6b;
+}
+table {
+    background: #f8f5f0;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+.section-form {
+    display: none;
+    padding: 40px;
+    background: rgba(66,72,138,0.6);
+    margin: 80px 200px;
+    border-radius: 10px;
+    color: #d1d1d1;
+    filter: hue-rotate(45deg);
+}
+
+menu {
+    background: #2f2f2f;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 5px 40px;
+    margin: 0;
+    width: 100%;
+    z-index: 3;
+}
+
+menu > a {
+    color: cornsilk;
+    padding: 5px 10px;
+    border-right: 1px solid;
+    text-transform: uppercase;
+    overflow-y: auto;
+}
+
+menu > a:hover {
+    color: #8f5299;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+menu > .active {
+    color: #9c9100;
+    text-decoration: none;
+    pointer-events: none;
+    font-weight: bold;
+}

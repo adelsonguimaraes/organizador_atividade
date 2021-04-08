@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "ajuda": "alistar",
+        "descricao": "quando um mob surge, o chat e o overlay notificam seu surgimento, nesse momento \u00e9 iniciado um curto espa\u00e7o de tempo para o alistamento de jogadores, para se alistar basta usar !alistar, com isso voc\u00ea j\u00e1 estar\u00e1 pronto para batalha quando ela come\u00e7ar."
+    },
+    {
+        "id": 2,
+        "ajuda": "golpe",
+        "descricao": "durante o turno dos players dentro do rpg voc\u00ea pode utilizar o comando !golpe, para atacar o mob, lembrando que o turno tem um tempo, passado esse tempo s\u00f3 poder\u00e1 atacar no pr\u00f3ximo"
+    },
+    {
+        "id": "3",
+        "ajuda": "ajudar",
+        "descricao": "durante a batalha, jogadores podem ajudar outros jogadores que foram derrotados, para isso \u00e9 necess\u00e1rio ter o item de reanima\u00e7\u00e3o que pode ser comprado na !cafeteria, ajudar um jogador ca\u00eddo pode ser o ponto de sucesso para vencer uma batalha."
+    },
+    {
+        "id": 4,
+        "ajuda": "turno",
+        "descricao": "turno \u00e9 a maneira na qual o rpg trabalha, dividido em 2 tipos, alistamento que ocorre apenas no momento em que o mob aparece e \u00e9 o per\u00edodo para os players se alistarem e o turno de batalha, esse que varia entre turno dos players onde \u00e9 sua vez de atacar e do turno do mob onde o mob ataca."
+    },
+    {
+        "id": 5,
+        "ajuda": "mob",
+        "descricao": "s\u00e3o os inimigos que voc\u00ea enfrentar\u00e1 durante o rpg, eles surgem aleat\u00f3riamente, assim como seu level tamb\u00e9m, ent\u00e3o voc\u00ea poder\u00e1 enfrentar fracos, como tamb\u00e9m mobs muito fortes, isso pode ser mais comum quando a quantidade de players aumenta."
+    },
+    {
+        "id": "6",
+        "ajuda": "status",
+        "descricao": "aqui voc\u00ea conseguir\u00e1 informa\u00e7\u00f5es importantes sobre o seu progresso no rpg como, level, experi\u00eancia, classe e moeda e outros."
+    },
+    {
+        "id": 7,
+        "ajuda": "recursos",
+        "descricao": "os recursos s\u00e3o utilizados para criar armas e equipamentos, eles s\u00e3o de tr\u00eas tipos de materiais, pl\u00e1stico, vidro e ferro, cada material com sua raridade, os recursos dropam de mobs quando derrotados, utilize !recursos e saiba mais sobre."
+    },
+    {
+        "id": "8",
+        "ajuda": "construir",
+        "descricao": "construir \u00e9 o ato de criar novos itens a partir de recursos, e esse mecanismo \u00e9 usado no rpg para criar armas e equipamentos, utilizando !construir [projeto_material_level] voc\u00ea pode construir um projeto, caso queria saber os recursos necess\u00e1rios para construir um projeto utilize !projeto [projeto_material], use tamb\u00e9m !livro para ver os projetos dispon\u00edveis."
+    },
+    {
+        "id": 9,
+        "ajuda": "level",
+        "descricao": "level \u00e9 o que determina a sua evolu\u00e7\u00e3o no rpg, o mesmo pode chegar at\u00e9 numeral 50, para aumentar seu level, voc\u00ea precisa participar de batalhas, assim agregando experi\u00eancia, e posteriormente seu level, utilizando !status voc\u00ea pode consultar o seu atual."
+    },
+    {
+        "id": "10",
+        "ajuda": "experiencia",
+        "descricao": "a cada nova batalha que voc\u00ea participa, mais experi\u00eancia \u00e9 agregada a voc\u00ea, quando atingir o numeral 100 voc\u00ea aumenta um level, utilize !status e consulte sua experi\u00eancia atual."
+    },
+    {
+        "id": 11,
+        "ajuda": "drop",
+        "descricao": "quando um mob \u00e9 derrotado, cada player que participou da batalha receber\u00e1 um item que ser\u00e1 dropado pelo mob, este item \u00e9 aleat\u00f3rio para cada player, utilize !recursos para ver o que pode dropar."
+    },
+    {
+        "id": "12",
+        "ajuda": "loot",
+        "descricao": "loot s\u00e3o os itens que cada jogar tem guardado depois de receber no drop do mob, existe um limite de itens que podem ser mantidos pelo player, quando esse limite \u00e9 atingido o player para de receber novos itens e precisa liberar espa\u00e7o, o player pode !comprar novos espa\u00e7os de loot ou !vender itens desnecess\u00e1rios."
+    },
+    {
+        "id": "13",
+        "ajuda": "moeda",
+        "descricao": "a moeda \u00e9 utilizada dentro do rpg para negociar com a !cafeteria ou at\u00e9 mesmo com outros jogadores."
+    },
+    {
+        "id": 14,
+        "ajuda": "curar",
+        "descricao": "\u00e9 poss\u00edvel durante as batalhas usar itens de cura, tanto para curar-se, quanto para curar outros jogadores, para curar-se utilize !curar [IDENTIFICADOR_ITEM] e para curar outro jogador utilize !curar [IDENTIFICADOR_ITEM] [NICK_JOGADOR], os itens de cura podem ser adquiridos na !cafeteria."
+    },
+    {
+        "id": 15,
+        "ajuda": "negociacao",
+        "descricao": "\u00e9 poss\u00edvel vender e comprar itens de outros jogadores atrav\u00e9s de uma negocia\u00e7\u00e3o, use !neg [NICK_JOGADOR] [ID_ITEM] [QUANTIDADE] [VALOR] para vender para outro jogador, voc\u00ea tamb\u00e9m pode consultar detalhes de uma negocia\u00e7\u00e3o ativa usando !vneg [NICK_JOGADOR], cancelar usando !cneg [NICK_JOGADOR] e aceitar usando !aneg [NICK_JOGADOR]."
+    }
+]

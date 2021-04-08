@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "menu":"Usuario",
+        "icon":"glyphicon glyphicon-user",
+        "link":"./../views/usuario.html"
+    },
+    {
+        "id":2,
+        "menu":"Projeto",
+        "icon":"glyphicon glyphicon-duplicate",
+        "link":"./../views/projeto.html"
+    }
+]

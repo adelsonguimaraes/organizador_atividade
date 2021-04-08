@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nome": "adelson",
+        "celular1": "9999999",
+        "celular2": "",
+        "email": "adelsonguimaraes@gmail.com",
+        "senha": "",
+        "ultimo_acesso": "2021-04-02 05:18:39",
+        "data_cadastro": "2021-04-01 22:48:00",
+        "data_edicao": "2021-04-02 05:18:39"
+    },
+    {
+        "id": 2,
+        "nome": "usuario2",
+        "celular1": "8888888888",
+        "celular2": "444444444444",
+        "email": "usuario2@email.com",
+        "senha": "",
+        "ultimo_acesso": "2021-04-08 05:55:31",
+        "data_cadastro": "2021-04-02 05:25:36",
+        "data_edicao": "2021-04-08 05:55:31"
+    }
+]
